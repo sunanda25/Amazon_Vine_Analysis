@@ -23,3 +23,7 @@ Big Market, a start-up that helps businesses to optimize their marketing effort,
 
 - 45.76% of non-vine reviews are 5-star in the Mobile App dataset.
 ![image](https://user-images.githubusercontent.com/76491891/121808350-fd45d300-cc25-11eb-82b2-db1715ea820e.png)
+
+## Summary
+- The percentage of 5-star vine reviews is 0, whereas the percentage of 5-star non-vine reviews is 45.76%. This shows there is no positivity bias in the vine program.
+- Additional analysis can be performed on the Mobile App dataset by calculating the mean, median, and mode for all star ratings.
