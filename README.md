@@ -13,3 +13,6 @@ Big Market, a start-up that helps businesses to optimize their marketing effort,
 ### Number of 5-Star Vine and non-Vine Reviews
 - There are zero 5-star vine reviews in the Mobile App dataset.
 ![image](https://user-images.githubusercontent.com/76491891/121808127-231ea800-cc25-11eb-98ab-92b6915b49eb.png)
+
+- There are 59,278 5-star non-vine reviews in the Mobile App dataset.
+![image](https://user-images.githubusercontent.com/76491891/121808247-8c9eb680-cc25-11eb-86c0-b3ae99d7e536.png)
