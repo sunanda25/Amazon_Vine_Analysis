@@ -16,3 +16,7 @@ Big Market, a start-up that helps businesses to optimize their marketing effort,
 
 - There are 59,278 5-star non-vine reviews in the Mobile App dataset.
 ![image](https://user-images.githubusercontent.com/76491891/121808247-8c9eb680-cc25-11eb-86c0-b3ae99d7e536.png)
+
+### Percentage of 5-Star Vine and non-Vine Reviews
+- The percentage of 5-star vine reviews is calculated as (number of 5-star reviews) / (the total number of vine reviews) *100.  The number of vine reviews in the Mobile App dataset is zero, which results in ZeroDivisionError.  To resolve this error, try and except blocks were used.
+![image](https://user-images.githubusercontent.com/76491891/121808310-d25b7f00-cc25-11eb-85ef-3f68bce3a45c.png)
