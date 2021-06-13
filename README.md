@@ -20,3 +20,6 @@ Big Market, a start-up that helps businesses to optimize their marketing effort,
 ### Percentage of 5-Star Vine and non-Vine Reviews
 - The percentage of 5-star vine reviews is calculated as (number of 5-star reviews) / (the total number of vine reviews) *100.  The number of vine reviews in the Mobile App dataset is zero, which results in ZeroDivisionError.  To resolve this error, try and except blocks were used.
 ![image](https://user-images.githubusercontent.com/76491891/121808310-d25b7f00-cc25-11eb-85ef-3f68bce3a45c.png)
+
+- 45.76% of non-vine reviews are 5-star in the Mobile App dataset.
+![image](https://user-images.githubusercontent.com/76491891/121808350-fd45d300-cc25-11eb-82b2-db1715ea820e.png)
